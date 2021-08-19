@@ -1,0 +1,9 @@
+.App {
+  width: 40rem;
+  margin: 0 auto;
+  font-weight: thin;
+}
+
+.App header {
+  text-align: center;
+}
